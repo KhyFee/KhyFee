@@ -37,7 +37,7 @@ I use AI to move fast without cutting corners: scope quickly, ship working softw
 ## Skills Dashboard
 
 <div align="center">
-  <img src="./assets/skills-dashboard.svg" alt="KhyFee skills dashboard: AI workflows, fast delivery, bug detection, Playwright, smoke testing" width="900" />
+  <img src="https://raw.githubusercontent.com/KhyFee/KhyFee/main/assets/skills-dashboard.svg?v=2" alt="KhyFee skills dashboard: AI workflows, fast delivery, bug detection, Playwright, smoke testing" width="900" />
 </div>
 
 ---
@@ -110,8 +110,10 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 <!-- Secondary until public repos grow — cards stay ready -->
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=KhyFee&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="KhyFee GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhyFee&theme=github_dark" alt="KhyFee GitHub activity" width="900" />
+  <br/>
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhyFee&theme=github_dark" alt="KhyFee GitHub stats" />
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhyFee&theme=github_dark" alt="Repositories by language" />
 </div>
 
 ---
