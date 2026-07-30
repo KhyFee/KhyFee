@@ -1,7 +1,11 @@
 <!-- ponytail: honest AI/testing strengths, no fake tenure or empty metrics -->
 <div align="center">
 
-<img src="./assets/terminal-banner.svg" alt="KhyFee terminal banner" width="900" />
+<img src="./assets/khyfee-ai-terminal-banner.png" alt="KhyFee AI development workspace" width="900" />
+
+<br/>
+
+<img src="./assets/khyfee-developer-avatar.png" alt="KhyFee developer avatar" width="160" />
 
 <br/>
 
