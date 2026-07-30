@@ -133,6 +133,6 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&width=480&lines=Build+fast.+Test+hard.+Ship+clean." alt="Build fast. Test hard. Ship clean." />
 
-<img src="./assets/banner-bottom.png" alt="" width="100%" />
+<img src="./assets/neon-pulse.gif" alt="Animated cyan and violet neon pulse" width="100%" />
 
 </div>
