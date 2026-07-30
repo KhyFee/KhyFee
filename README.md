@@ -3,7 +3,9 @@
 
 <img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=140&lines=AI+workflows+%7C+ship+fast+%7C+finish+clean;Playwright+E2E+%2B+smoke+tests;Hunt+bugs.+Fix+root+cause.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=AI+workflows+%7C+ship+fast+%7C+finish+clean;Playwright+E2E+%2B+smoke+tests;Hunt+bugs.+Fix+root+cause.)](https://git.io/typing-svg)
+
+<img src="./assets/accent-divider.png" alt="" width="480" />
 
 **Full-stack developer · Malaysia · AI-assisted delivery**
 
@@ -11,9 +13,9 @@
 [![Email](https://img.shields.io/badge/Email-khaixd756%40gmail.com-34d399?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaixd756@gmail.com)
 [![Open to work](https://img.shields.io/badge/Status-Open_to_opportunities-22c55e?style=for-the-badge)](mailto:khaixd756@gmail.com)
 
-</div>
+<img src="./assets/accent-divider.png" alt="" width="480" />
 
----
+</div>
 
 ## About
 
