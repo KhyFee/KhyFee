@@ -1,13 +1,7 @@
 <!-- ponytail: honest AI/testing strengths, no fake tenure or empty metrics -->
 <div align="center">
 
-<img src="./assets/khyfee-ai-terminal-banner.png" alt="KhyFee AI development workspace" width="900" />
-
-<br/>
-
-<img src="./assets/khyfee-developer-avatar.png" alt="KhyFee developer avatar" width="160" />
-
-<br/>
+<img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=80&lines=AI+workflows+%7C+ship+fast+%7C+finish+clean;Playwright+E2E+%2B+smoke+tests;Hunt+bugs.+Fix+root+cause.)](https://git.io/typing-svg)
 
@@ -36,9 +30,15 @@ I use AI to move fast without cutting corners: scope quickly, ship working softw
 
 ## Skills Dashboard
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KhyFee/KhyFee/main/assets/skills-dashboard.svg?v=2" alt="KhyFee skills dashboard: AI workflows, fast delivery, bug detection, Playwright, smoke testing" width="900" />
-</div>
+<!-- ponytail: text bars — GitHub's image proxy blocks animated SVG, this always renders -->
+
+```text
+AI Workflows            ███████████████████████████░░░  expert
+Fast Project Delivery   ██████████████████████████░░░░  strong
+Bug & Problem Detection █████████████████████████░░░░░  strong
+Playwright E2E          ████████████████████████░░░░░░  strong
+Smoke Testing           ███████████████████████░░░░░░░  strong
+```
 
 ---
 
@@ -127,5 +127,7 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&width=480&lines=Build+fast.+Test+hard.+Ship+clean." alt="Build fast. Test hard. Ship clean." />
+
+<img src="./assets/banner-bottom.png" alt="" width="100%" />
 
 </div>
