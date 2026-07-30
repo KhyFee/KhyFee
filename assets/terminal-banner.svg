@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="KhyFee terminal banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="16" y="16" width="868" height="188" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="16" y="16" width="868" height="188" rx="14" fill="#020617" stroke="#1f2937" stroke-width="2"/>
+
+  <circle cx="46" cy="42" r="7" fill="#ef4444"/>
+  <circle cx="70" cy="42" r="7" fill="#f59e0b"/>
+  <circle cx="94" cy="42" r="7" fill="#22c55e"/>
+  <text x="130" y="47" fill="#94a3b8" font-family="Consolas, Monaco, monospace" font-size="14">khyfee@github:~</text>
+
+  <g clip-path="url(#clip)">
+    <text x="40" y="92" fill="#34d399" font-family="Consolas, Monaco, monospace" font-size="18">$</text>
+    <text x="62" y="92" fill="#e2e8f0" font-family="Consolas, Monaco, monospace" font-size="18">
+      <tspan>whoami</tspan>
+    </text>
+    <text x="40" y="122" fill="url(#glow)" font-family="Consolas, Monaco, monospace" font-size="28" font-weight="700">
+      KhyFee  AI-powered full-stack builder
+    </text>
+
+    <text x="40" y="158" fill="#67e8f9" font-family="Consolas, Monaco, monospace" font-size="16">
+      <tspan id="line">shipping fast · hunting bugs · Playwright + smoke tests</tspan>
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+
+    <rect x="40" y="176" width="10" height="18" fill="#22d3ee">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="16" y="16" width="868" height="188" rx="14" fill="none" stroke="url(#glow)" stroke-opacity="0.35" stroke-width="1.5"/>
+</svg>
