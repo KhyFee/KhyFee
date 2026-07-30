@@ -3,7 +3,7 @@
 
 <img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=80&lines=AI+workflows+%7C+ship+fast+%7C+finish+clean;Playwright+E2E+%2B+smoke+tests;Hunt+bugs.+Fix+root+cause.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=140&lines=AI+workflows+%7C+ship+fast+%7C+finish+clean;Playwright+E2E+%2B+smoke+tests;Hunt+bugs.+Fix+root+cause.)](https://git.io/typing-svg)
 
 **Full-stack developer · Malaysia · AI-assisted delivery**
 
@@ -30,15 +30,18 @@ I use AI to move fast without cutting corners: scope quickly, ship working softw
 
 ## Skills Dashboard
 
-<!-- ponytail: text bars — GitHub's image proxy blocks animated SVG, this always renders -->
+<!-- ponytail: shields badges — GitHub proxies away animated SVG and renders block chars as tofu -->
 
-```text
-AI Workflows            ███████████████████████████░░░  expert
-Fast Project Delivery   ██████████████████████████░░░░  strong
-Bug & Problem Detection █████████████████████████░░░░░  strong
-Playwright E2E          ████████████████████████░░░░░░  strong
-Smoke Testing           ███████████████████████░░░░░░░  strong
-```
+<div align="center">
+
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-EXPERT-22d3ee?style=for-the-badge&labelColor=0f172a)
+![Fast Delivery](https://img.shields.io/badge/Fast_Delivery-STRONG-34d399?style=for-the-badge&labelColor=0f172a)
+![Bug Detection](https://img.shields.io/badge/Bug_Detection-STRONG-fb7185?style=for-the-badge&labelColor=0f172a)
+
+![Playwright E2E](https://img.shields.io/badge/Playwright_E2E-STRONG-a78bfa?style=for-the-badge&labelColor=0f172a)
+![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-STRONG-fbbf24?style=for-the-badge&labelColor=0f172a)
+
+</div>
 
 ---
 
