@@ -114,6 +114,20 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 
 ---
 
+## Achievements
+
+<div align="center">
+
+[![Quickdraw](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png)](https://github.com/KhyFee?tab=achievements)
+[![YOLO](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png)](https://github.com/KhyFee?tab=achievements)
+[![Pull Shark](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png)](https://github.com/KhyFee?tab=achievements)
+
+[View all on profile →](https://github.com/KhyFee?tab=achievements)
+
+</div>
+
+---
+
 ## GitHub Activity
 
 <!-- ponytail: official github-readme-stats.vercel.app is 503 paused; community mirror -->
