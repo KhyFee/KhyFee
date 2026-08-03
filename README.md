@@ -117,6 +117,32 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 
 ---
 
+## Open Source
+
+Playwright CI/e2e, accessibility fixes, and review feedback across public repos — plus contextual replies in [GitHub Community Discussions](https://github.com/orgs/community/discussions).
+
+### Pull requests
+
+| PR | Focus |
+|----|--------|
+| [clawboo#109](https://github.com/clawboo/clawboo/pull/109) | Run Playwright e2e suite in CI |
+| [MiniSearch#2293](https://github.com/felladrin/MiniSearch/pull/2293) | Playwright smoke on production Docker check |
+| [philaconvalley/website#116](https://github.com/philaconvalley/website/pull/116) | WCAG contrast on pink CTAs |
+| [bearr-lab/rama#19](https://github.com/bearr-lab/rama/pull/19) | Navbar / theme toggler a11y |
+| [anuj98/portfoliov2#7](https://github.com/anuj98/portfoliov2/pull/7) | Contrast, heading order, document title |
+| [soroban-testbench#19](https://github.com/SorobanGuard-Labs/soroban-testbench/pull/19) | Focus + live regions |
+| [leaklens#5](https://github.com/andrewcb22/leaklens/pull/5) | Playwright browser audit + HTML fallback |
+| [material-event-radar#27](https://github.com/huluwa2026/material-event-radar/pull/27) | axe Playwright + contrast |
+| [built-by-ann#15](https://github.com/built-by-ann/built-by-ann.github.io/pull/15) | ESLint `jsx-a11y` |
+| [quay#6704](https://github.com/quay/quay/pull/6704) | Playwright fixtures reference in AGENTS.md |
+| [go-eazy#1095](https://github.com/enginow-in/go-eazy/pull/1095) | Footer keyboard a11y |
+
+### Reviews & community
+
+Substantive PR reviews on Playwright / e2e / a11y changes (e.g. sightmap, test-warden, pest-plugin-browser, disable-blog, reuben-photography, and others), plus troubleshooting replies on Actions schedules, achievements, and Copilot in Community Discussions.
+
+---
+
 ## Achievements
 
 <div align="center">
