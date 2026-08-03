@@ -115,13 +115,13 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 
 ## GitHub Activity
 
-<!-- ponytail: github-readme-stats — summary-cards vercel app was dead in README -->
+<!-- ponytail: official github-readme-stats.vercel.app is 503 paused; community mirror -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KhyFee&theme=radical&hide_border=true&background=0D1117" alt="KhyFee GitHub streak" />
   <br/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KhyFee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=34D399&text_color=E5E7EB" alt="KhyFee GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Repositories by language" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhyFee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=34D399&text_color=E5E7EB" alt="KhyFee GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Repositories by language" />
 </div>
 
 ---
