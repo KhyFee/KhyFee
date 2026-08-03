@@ -121,6 +121,10 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 
 Playwright CI/e2e, accessibility fixes, and review feedback across public repos — plus contextual replies in [GitHub Community Discussions](https://github.com/orgs/community/discussions).
 
+[![daily-ship-log](https://img.shields.io/badge/daily--ship--log-craft_tips-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhyFee/daily-ship-log) [![MIT](https://img.shields.io/badge/license-MIT-34d399?style=for-the-badge)](https://github.com/KhyFee/daily-ship-log/blob/main/LICENSE)
+
+**[daily-ship-log](https://github.com/KhyFee/daily-ship-log)** — scheduled daily Playwright / a11y / delivery tip (one real commit per MYT day; not empty commits).
+
 ### Pull requests
 
 | PR | Focus |
