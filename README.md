@@ -1,4 +1,4 @@
-<!-- ponytail: honest AI/testing strengths, no fake tenure or empty metrics -->
+﻿<!-- ponytail: honest AI/testing strengths, no fake tenure or empty metrics -->
 <div align="center">
 
 <img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
@@ -112,13 +112,13 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 
 ## GitHub Activity
 
-<!-- Secondary until public repos grow — cards stay ready -->
+<!-- ponytail: github-readme-stats — summary-cards vercel app was dead in README -->
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhyFee&theme=github_dark" alt="KhyFee GitHub activity" width="900" />
+  <img src="https://streak-stats.demolab.com?user=KhyFee&theme=radical&hide_border=true&background=0D1117" alt="KhyFee GitHub streak" />
   <br/>
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhyFee&theme=github_dark" alt="KhyFee GitHub stats" />
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhyFee&theme=github_dark" alt="Repositories by language" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KhyFee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=34D399&text_color=E5E7EB" alt="KhyFee GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Repositories by language" />
 </div>
 
 ---
