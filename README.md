@@ -1,4 +1,5 @@
 <!-- ponytail: honest AI/testing strengths, no fake tenure or empty metrics -->
+<!-- achievement-pass: 1 -->
 <div align="center">
 
 <img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
