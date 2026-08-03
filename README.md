@@ -1,4 +1,4 @@
-﻿<!-- ponytail: honest AI/testing strengths, no fake tenure or empty metrics -->
+<!-- ponytail: honest AI/testing strengths, no fake tenure or empty metrics -->
 <div align="center">
 
 <img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
@@ -100,13 +100,16 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 
 ---
 
-## Currently Building
+## Featured Projects
 
-- Public AI + full-stack demos you can clone and run
-- Playwright suites and smoke checks tied to real product flows
-- Small, documented repos that show delivery speed *and* quality gates
-
-> Best next upgrade: pin 2–3 real projects here. Profile polish can't replace shipped work.
+| Repo | What it does |
+|------|----------------|
+| **[LensQA](https://github.com/KhyFee/LensQA)** | Frontend quality cloud — visual, a11y, perf, and runtime QA |
+| **[Deflake](https://github.com/KhyFee/Deflake)** | Flaky test auto-triager — parallel Playwright + evidence-based fixes |
+| **[DocuSource](https://github.com/KhyFee/DocuSource)** | Enterprise knowledge RAG with direct citations |
+| **[MarginWatch](https://github.com/KhyFee/MarginWatch)** | B2B supplier portal automator — session reuse, price deltas, alerts |
+| **[A11yGuard](https://github.com/KhyFee/A11yGuard)** | Automated PR accessibility reviewer — WCAG + SARIF |
+| **[SafeMigrate](https://github.com/KhyFee/SafeMigrate)** | Zero-downtime migration sandbox — shadow clone, schema diff, rollback |
 
 ---
 
