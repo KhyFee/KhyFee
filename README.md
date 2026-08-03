@@ -112,6 +112,9 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 | **[A11yGuard](https://github.com/KhyFee/A11yGuard)** | Automated PR accessibility reviewer — WCAG + SARIF |
 | **[SafeMigrate](https://github.com/KhyFee/SafeMigrate)** | Zero-downtime migration sandbox — shadow clone, schema diff, rollback |
 
+**Discussions (feedback welcome):**  
+[LensQA](https://github.com/KhyFee/LensQA/discussions/5) · [Deflake](https://github.com/KhyFee/Deflake/discussions/5) · [DocuSource](https://github.com/KhyFee/DocuSource/discussions/5) · [MarginWatch](https://github.com/KhyFee/MarginWatch/discussions/4) · [A11yGuard](https://github.com/KhyFee/A11yGuard/discussions/4) · [SafeMigrate](https://github.com/KhyFee/SafeMigrate/discussions/4)
+
 ---
 
 ## Achievements
