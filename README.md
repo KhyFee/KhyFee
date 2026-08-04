@@ -1,18 +1,22 @@
-<!-- ponytail: honest AI/testing strengths, no fake tenure or empty metrics -->
-<!-- achievement-pass: 2 -->
+<!-- ponytail: honest AI/testing strengths; achievements via real merges only -->
+<!-- profile-pass: 3 — achievements roadmap + expanded OSS -->
 <div align="center">
 
 <img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=AI+workflows+%7C+ship+fast+%7C+finish+clean;Playwright+E2E+%2B+smoke+tests;Hunt+bugs.+Fix+root+cause.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=120&lines=AI+workflows+%7C+ship+fast+%7C+finish+clean;Playwright+E2E+%2B+a11y+hard+fixes;Open+source+contributor+%C2%B7+Malaysia)](https://git.io/typing-svg)
 
 <img src="./assets/accent-divider.png" alt="" width="480" />
 
-**Full-stack developer · Malaysia · AI-assisted delivery**
+# KhyFee
 
-[![Follow](https://img.shields.io/github/followers/KhyFee?label=Follow&style=for-the-badge&logo=github&color=0ea5e9)](https://github.com/KhyFee)
+**Full-stack developer · Malaysia · AI-assisted delivery · Playwright & accessibility**
+
+[![Follow](https://img.shields.io/github/followers/KhyFee?label=Follow&style=for-the-badge&logo=github&color=0ea5e9)](https://github.com/KhyFee?tab=followers)
 [![Email](https://img.shields.io/badge/Email-khaixd756%40gmail.com-34d399?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaixd756@gmail.com)
 [![Open to work](https://img.shields.io/badge/Status-Open_to_opportunities-22c55e?style=for-the-badge)](mailto:khaixd756@gmail.com)
+[![PRs](https://img.shields.io/badge/Open_source-active_PRs-a78bfa?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AKhyFee)
+[![daily-ship-log](https://img.shields.io/badge/Streak-daily--ship--log-22d3ee?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/KhyFee/daily-ship-log)
 
 <img src="./assets/accent-divider.png" alt="" width="480" />
 
@@ -20,68 +24,38 @@
 
 ## About
 
-I use AI to move fast without cutting corners: scope quickly, ship working software, then pressure-test it until the bugs surface.
+I use AI to move **fast without cutting corners**: scope quickly, ship working software, then pressure-test until bugs surface — and fix the **root cause once**, not every call site.
 
-- 🤖 **Experienced with AI** for planning, coding, and tight iteration loops
-- ⚡ **Fast projects / fast finish** — prototype → polish → done
-- 🐞 **Strong bug & problem detection** — find the break, fix the cause
-- 🎭 **Playwright** for end-to-end coverage that catches real user failures
-- 💨 **Smoke tests** for quick confidence before and after deploys
-- 📍 Based in **Malaysia**
+- 🤖 **AI workflows** — plan → build → verify loops that stay honest
+- ⚡ **Fast projects / finish** — prototype → polish → done
+- 🐞 **Root-cause debugging** — shared guards over copy-pasted patches
+- 🎭 **Playwright E2E** + **smoke tests** for real user paths
+- ♿ **Accessibility** — keyboard, ARIA, contrast, skip links, focus
+- 📍 **Malaysia** · open to opportunities
+
+```bash
+plan → build with AI → verify → smoke/e2e → ship
+```
 
 ---
 
-## Skills Dashboard
-
-<!-- ponytail: shields badges — GitHub proxies away animated SVG and renders block chars as tofu -->
+## Skills
 
 <div align="center">
 
 ![AI Workflows](https://img.shields.io/badge/AI_Workflows-EXPERT-22d3ee?style=for-the-badge&labelColor=0f172a)
 ![Fast Delivery](https://img.shields.io/badge/Fast_Delivery-STRONG-34d399?style=for-the-badge&labelColor=0f172a)
 ![Bug Detection](https://img.shields.io/badge/Bug_Detection-STRONG-fb7185?style=for-the-badge&labelColor=0f172a)
-
 ![Playwright E2E](https://img.shields.io/badge/Playwright_E2E-STRONG-a78bfa?style=for-the-badge&labelColor=0f172a)
+![Accessibility](https://img.shields.io/badge/Accessibility-STRONG-f472b6?style=for-the-badge&labelColor=0f172a)
 ![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-STRONG-fbbf24?style=for-the-badge&labelColor=0f172a)
 
 </div>
 
----
-
-## AI & Delivery
-
-| Mode | What I do |
-|------|-----------|
-| **AI workflows** | Break problems down, generate options, implement the shortest path that works |
-| **Rapid delivery** | Cut scope that doesn't matter, ship the path that does |
-| **Finish quality** | Leave runnable checks behind so the next change doesn't break the last one |
-
-```bash
-# how I work
-plan → build with AI → verify → smoke → ship
-```
-
----
-
-## Testing & Debugging
-
-| Tool / habit | Why it matters |
-|--------------|----------------|
-| **Playwright** | Catch UI and flow regressions before users do |
-| **Smoke tests** | Fast pass/fail signal after every meaningful change |
-| **Root-cause debugging** | Trace the shared failure path instead of patching symptoms |
-
-```text
-failing flow → reproduce → isolate → fix once → re-run smoke + e2e
-```
-
----
-
-## Stack
+### Stack
 
 **Frontend**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
@@ -92,58 +66,54 @@ failing flow → reproduce → isolate → fix once → re-run smoke + e2e
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-**AI · QA · Tools**  
+**AI · QA · Ship**  
 ![AI](https://img.shields.io/badge/AI_Workflows-0f172a?style=for-the-badge&logo=openai&logoColor=22D3EE)
 ![Playwright](https://img.shields.io/badge/Playwright-0f172a?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![Smoke Tests](https://img.shields.io/badge/Smoke_Tests-0f172a?style=for-the-badge&logo=checkmarx&logoColor=FBBF24)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
-## Featured Projects
+## Featured projects
 
 | Repo | What it does |
 |------|----------------|
-| **[LensQA](https://github.com/KhyFee/LensQA)** | Frontend quality cloud — visual, a11y, perf, and runtime QA |
-| **[Deflake](https://github.com/KhyFee/Deflake)** | Flaky test auto-triager — parallel Playwright + evidence-based fixes |
-| **[DocuSource](https://github.com/KhyFee/DocuSource)** | Enterprise knowledge RAG with direct citations |
-| **[MarginWatch](https://github.com/KhyFee/MarginWatch)** | B2B supplier portal automator — session reuse, price deltas, alerts |
+| **[LensQA](https://github.com/KhyFee/LensQA)** | Frontend quality cloud — visual, a11y, perf, runtime QA |
+| **[Deflake](https://github.com/KhyFee/Deflake)** | Flaky test auto-triager — parallel Playwright + evidence fixes |
 | **[A11yGuard](https://github.com/KhyFee/A11yGuard)** | Automated PR accessibility reviewer — WCAG + SARIF |
-| **[SafeMigrate](https://github.com/KhyFee/SafeMigrate)** | Zero-downtime migration sandbox — shadow clone, schema diff, rollback |
+| **[DocuSource](https://github.com/KhyFee/DocuSource)** | Enterprise knowledge RAG with direct citations |
+| **[MarginWatch](https://github.com/KhyFee/MarginWatch)** | B2B supplier portal automator — sessions, price deltas, alerts |
+| **[SafeMigrate](https://github.com/KhyFee/SafeMigrate)** | Zero-downtime migration sandbox — shadow clone, schema diff |
+| **[daily-ship-log](https://github.com/KhyFee/daily-ship-log)** | Scheduled daily craft tip (Playwright / a11y / delivery) — green squares without empty commits |
 
-**Discussions (feedback welcome):**  
-[LensQA](https://github.com/KhyFee/LensQA/discussions/5) · [Deflake](https://github.com/KhyFee/Deflake/discussions/5) · [DocuSource](https://github.com/KhyFee/DocuSource/discussions/5) · [MarginWatch](https://github.com/KhyFee/MarginWatch/discussions/4) · [A11yGuard](https://github.com/KhyFee/A11yGuard/discussions/4) · [SafeMigrate](https://github.com/KhyFee/SafeMigrate/discussions/4)
+**Talk to humans:** [daily-ship-log discussions](https://github.com/KhyFee/daily-ship-log/discussions/1) · project discussion boards on the repos above  
 
 ---
 
-## Open Source
+## Open source
 
-Playwright CI/e2e, accessibility fixes, and review feedback across public repos — plus contextual replies in [GitHub Community Discussions](https://github.com/orgs/community/discussions).
+Playwright CI, accessibility (keyboard / ARIA / contrast / focus), docs, and careful PR reviews — real patches, not drive-by noise.
 
-[![daily-ship-log](https://img.shields.io/badge/daily--ship--log-craft_tips-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhyFee/daily-ship-log) [![MIT](https://img.shields.io/badge/license-MIT-34d399?style=for-the-badge)](https://github.com/KhyFee/daily-ship-log/blob/main/LICENSE)
+### Merged (counts for Pull Shark + Contributors)
 
-**[daily-ship-log](https://github.com/KhyFee/daily-ship-log)** — scheduled daily Playwright / a11y / delivery tip (one real commit per MYT day; not empty commits). [Welcome discussion →](https://github.com/KhyFee/daily-ship-log/discussions/1)
-
-### Pull requests
-
-| PR | Focus |
+| PR | Result |
 |----|--------|
-| [clawboo#109](https://github.com/clawboo/clawboo/pull/109) | Run Playwright e2e suite in CI |
-| [MiniSearch#2293](https://github.com/felladrin/MiniSearch/pull/2293) | Playwright smoke on production Docker check |
-| [philaconvalley/website#116](https://github.com/philaconvalley/website/pull/116) | WCAG contrast on pink CTAs |
-| [bearr-lab/rama#19](https://github.com/bearr-lab/rama/pull/19) | Navbar / theme toggler a11y |
-| [anuj98/portfoliov2#7](https://github.com/anuj98/portfoliov2/pull/7) | Contrast, heading order, document title |
-| [soroban-testbench#19](https://github.com/SorobanGuard-Labs/soroban-testbench/pull/19) | Focus + live regions |
-| [leaklens#5](https://github.com/andrewcb22/leaklens/pull/5) | Playwright browser audit + HTML fallback |
-| [material-event-radar#27](https://github.com/huluwa2026/material-event-radar/pull/27) | axe Playwright + contrast |
-| [built-by-ann#15](https://github.com/built-by-ann/built-by-ann.github.io/pull/15) | ESLint `jsx-a11y` |
-| [quay#6704](https://github.com/quay/quay/pull/6704) | Playwright fixtures reference in AGENTS.md |
-| [go-eazy#1095](https://github.com/enginow-in/go-eazy/pull/1095) | Footer keyboard a11y |
+| ✅ [MiniSearch#2293](https://github.com/felladrin/MiniSearch/pull/2293) | Playwright e2e smoke vs production container |
+| ✅ [bearr-lab/rama#19](https://github.com/bearr-lab/rama/pull/19) | Navbar + theme toggler a11y |
+
+### Active external PRs
+
+| Area | PRs |
+|------|-----|
+| **CI / Playwright** | [clawboo#109](https://github.com/clawboo/clawboo/pull/109) · [leaklens#5](https://github.com/andrewcb22/leaklens/pull/5) · [material-event-radar#27](https://github.com/huluwa2026/material-event-radar/pull/27) · [quay#6704](https://github.com/quay/quay/pull/6704) |
+| **Accessibility** | [sembleops](https://github.com/TheDThompsonDev/sembleops/pulls?q=author%3AKhyFee) · [website#116](https://github.com/philaconvalley/website/pull/116) · [portfoliov2#7](https://github.com/anuj98/portfoliov2/pull/7) · [go-eazy#1095](https://github.com/enginow-in/go-eazy/pull/1095) · [GloWe#805](https://github.com/KarmaCummunity/GloWe/pull/805) · [dopa-mean#8](https://github.com/heyhidas/dopa-mean/pull/8) · [folio#94](https://github.com/miguelrcha/folio/pull/94) · [interviewforge#6](https://github.com/skippka/interviewforge-ai/pull/6) · [soroban#19](https://github.com/SorobanGuard-Labs/soroban-testbench/pull/19) · [built-by-ann#15](https://github.com/built-by-ann/built-by-ann.github.io/pull/15) |
+| **Docs / content** | [kprompt#96](https://github.com/kprompt/kprompt/pull/96) · [Podiom#14](https://github.com/Podiom/Podiom/pull/14) · [Carpentries#50](https://github.com/carpentries-incubator/ReproducibleResearch/pull/50) · [nanopore#39](https://github.com/Eco-Flow/nanoporemetabarcoding/pull/39) · [demo-bugs#32](https://github.com/anandreddy1986/demo-bugs/pull/32) · [playground#9](https://github.com/darpansanghani/swe-agent-playground/pull/9) |
+
+Full list: [PRs authored by KhyFee](https://github.com/pulls?q=is%3Apr+author%3AKhyFee)
 
 ### Reviews & community
 
-Substantive PR reviews on Playwright / e2e / a11y changes (e.g. sightmap, test-warden, pest-plugin-browser, disable-blog, reuben-photography, and others), plus troubleshooting replies on Actions schedules, achievements, and Copilot in Community Discussions.
+Substantive reviews on Playwright / e2e / a11y PRs and helpful threads in [GitHub Community Discussions](https://github.com/orgs/community/discussions) (Actions, achievements, Copilot, Pages).
 
 ---
 
@@ -155,21 +125,31 @@ Substantive PR reviews on Playwright / e2e / a11y changes (e.g. sightmap, test-w
 [![YOLO](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png)](https://github.com/KhyFee?tab=achievements)
 [![Pull Shark](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png)](https://github.com/KhyFee?tab=achievements)
 
-[View all on profile →](https://github.com/KhyFee?tab=achievements)
+[**View earned badges**](https://github.com/KhyFee?tab=achievements)
 
 </div>
 
+| Badge | Status | Honest path |
+|-------|--------|-------------|
+| **Quickdraw / YOLO / Pull Shark** | Working / leveling | Real merges (own + external). No fake accounts. |
+| **Galaxy Brain** | Target | Give high-signal Community answers that OPs mark **Answered** |
+| **Pair Extraordinaire** | Target | Co-author commits with a real collaborator (not alts) |
+| **Starstruck** | Target | Ship repos people naturally ⭐ (can't buy legitimately) |
+| **Public Sponsor** | Optional | [Sponsor open source](https://github.com/sponsors) if you choose |
+
 ---
 
-## GitHub Activity
-
-<!-- ponytail: official github-readme-stats.vercel.app is 503 paused; community mirror -->
+## GitHub activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KhyFee&theme=radical&hide_border=true&background=0D1117" alt="KhyFee GitHub streak" />
-  <br/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhyFee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=34D399&text_color=E5E7EB" alt="KhyFee GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Repositories by language" />
+
+<img src="https://streak-stats.demolab.com?user=KhyFee&theme=radical&hide_border=true&background=0D1117" alt="KhyFee GitHub streak" />
+<br/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhyFee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=34D399&text_color=E5E7EB&include_all_commits=true&count_private=false" alt="KhyFee GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Top languages" />
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=KhyFee&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophy showcase" />
+
 </div>
 
 ---
@@ -178,11 +158,11 @@ Substantive PR reviews on Playwright / e2e / a11y changes (e.g. sightmap, test-w
 
 <div align="center">
 
-📬 [khaixd756@gmail.com](mailto:khaixd756@gmail.com) · 💻 [github.com/KhyFee](https://github.com/KhyFee)
+📬 [khaixd756@gmail.com](mailto:khaixd756@gmail.com) · 💻 [github.com/KhyFee](https://github.com/KhyFee) · 🤝 [Pull requests](https://github.com/pulls?q=is%3Apr+author%3AKhyFee)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&width=480&lines=Build+fast.+Test+hard.+Ship+clean." alt="Build fast. Test hard. Ship clean." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&width=520&lines=Build+fast.+Test+hard.+Ship+clean.+Contribute+for+real." alt="Build fast. Test hard. Ship clean." />
 
 <img src="./assets/neon-pulse.gif" alt="Animated cyan and violet neon pulse" width="100%" />
 
