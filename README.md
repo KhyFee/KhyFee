@@ -78,8 +78,8 @@ plan → build with AI → verify → smoke/e2e → ship
 
 | Repo | What it does |
 |------|----------------|
+| **[Deflake](https://github.com/KhyFee/Deflake)** ⭐ *flagship* | Flaky Playwright auto-triager — parallel attempts + Wilson stats + evidence · [`npm run demo`](https://github.com/KhyFee/Deflake#60-second-demo) · [Show HN draft](https://github.com/KhyFee/Deflake/blob/main/SHOW_HN.md) |
 | **[LensQA](https://github.com/KhyFee/LensQA)** | Frontend quality cloud — visual, a11y, perf, runtime QA |
-| **[Deflake](https://github.com/KhyFee/Deflake)** | Flaky test auto-triager — parallel Playwright + evidence fixes |
 | **[A11yGuard](https://github.com/KhyFee/A11yGuard)** | Automated PR accessibility reviewer — WCAG + SARIF |
 | **[DocuSource](https://github.com/KhyFee/DocuSource)** | Enterprise knowledge RAG with direct citations |
 | **[MarginWatch](https://github.com/KhyFee/MarginWatch)** | B2B supplier portal automator — sessions, price deltas, alerts |
