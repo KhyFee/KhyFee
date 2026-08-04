@@ -148,7 +148,7 @@ Substantive reviews on Playwright / e2e / a11y PRs and helpful threads in [GitHu
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhyFee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=34D399&text_color=E5E7EB&include_all_commits=true&count_private=false" alt="KhyFee GitHub stats" />
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Top languages" />
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=KhyFee&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophy showcase" />
+<img src="https://trophy.benkou.dev/?username=KhyFee&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophy showcase" />
 
 </div>
 
