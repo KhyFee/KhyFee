@@ -1,5 +1,5 @@
 <!-- ponytail: honest AI/testing strengths; achievements via real merges only -->
-<!-- profile-pass: 3 — achievements roadmap + expanded OSS -->
+<!-- profile-pass: 4 — refresh OSS merges + active PRs -->
 <div align="center">
 
 <img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
