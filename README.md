@@ -92,7 +92,7 @@ plan → build with AI → verify → smoke/e2e → ship
 
 ## Open source
 
-Playwright CI, accessibility (keyboard / ARIA / contrast / focus), docs, and careful PR reviews — real patches, not drive-by noise.
+Playwright CI, accessibility (keyboard / ARIA / contrast / focus / reduced-motion), docs, and careful PR reviews — real patches, not drive-by noise.
 
 ### Merged (counts for Pull Shark + Contributors)
 
@@ -100,20 +100,24 @@ Playwright CI, accessibility (keyboard / ARIA / contrast / focus), docs, and car
 |----|--------|
 | ✅ [MiniSearch#2293](https://github.com/felladrin/MiniSearch/pull/2293) | Playwright e2e smoke vs production container |
 | ✅ [bearr-lab/rama#19](https://github.com/bearr-lab/rama/pull/19) | Navbar + theme toggler a11y |
+| ✅ [mcp-migrate#93](https://github.com/dheerajjha/mcp-migrate/pull/93) | Skip `*.examples.ts` in scan by default |
+| ✅ [ReproducibleResearch#50](https://github.com/carpentries-incubator/ReproducibleResearch/pull/50) | Descriptive link text (a11y) |
+| ✅ [nanoporemetabarcoding#39](https://github.com/Eco-Flow/nanoporemetabarcoding/pull/39) | README typo fixes |
+| ✅ [First-PR#22](https://github.com/Cima9642/First-PR/pull/22) | README typos + [contributors](https://github.com/Cima9642/First-PR/pull/23) |
 
 ### Active external PRs
 
 | Area | PRs |
 |------|-----|
-| **CI / Playwright** | [clawboo#109](https://github.com/clawboo/clawboo/pull/109) · [leaklens#5](https://github.com/andrewcb22/leaklens/pull/5) · [material-event-radar#27](https://github.com/huluwa2026/material-event-radar/pull/27) · [quay#6704](https://github.com/quay/quay/pull/6704) |
-| **Accessibility** | [sembleops](https://github.com/TheDThompsonDev/sembleops/pulls?q=author%3AKhyFee) · [website#116](https://github.com/philaconvalley/website/pull/116) · [portfoliov2#7](https://github.com/anuj98/portfoliov2/pull/7) · [go-eazy#1095](https://github.com/enginow-in/go-eazy/pull/1095) · [GloWe#805](https://github.com/KarmaCummunity/GloWe/pull/805) · [dopa-mean#8](https://github.com/heyhidas/dopa-mean/pull/8) · [folio#94](https://github.com/miguelrcha/folio/pull/94) · [interviewforge#6](https://github.com/skippka/interviewforge-ai/pull/6) · [soroban#19](https://github.com/SorobanGuard-Labs/soroban-testbench/pull/19) · [built-by-ann#15](https://github.com/built-by-ann/built-by-ann.github.io/pull/15) |
-| **Docs / content** | [kprompt#96](https://github.com/kprompt/kprompt/pull/96) · [Podiom#14](https://github.com/Podiom/Podiom/pull/14) · [Carpentries#50](https://github.com/carpentries-incubator/ReproducibleResearch/pull/50) · [nanopore#39](https://github.com/Eco-Flow/nanoporemetabarcoding/pull/39) · [demo-bugs#32](https://github.com/anandreddy1986/demo-bugs/pull/32) · [playground#9](https://github.com/darpansanghani/swe-agent-playground/pull/9) |
+| **Accessibility** | [sembleops](https://github.com/TheDThompsonDev/sembleops/pulls?q=author%3AKhyFee) · [doc2mcp#150](https://github.com/doc2mcp/doc2mcp/pull/150) · [website#116](https://github.com/philaconvalley/website/pull/116) · [website#122](https://github.com/philaconvalley/website/pull/122) · [littlecures#17](https://github.com/AEVentures/littlecures/pull/17) · [MushafImad#82](https://github.com/ibo2001/MushafImad/pull/82) · [Pdfy#19](https://github.com/Harisyam/Pdfy/pull/19) · [evidenceoflife#27](https://github.com/Cyriellewu/evidenceoflife-v2/pull/27) · [portfoliov2#7](https://github.com/anuj98/portfoliov2/pull/7) · [GloWe#805](https://github.com/KarmaCummunity/GloWe/pull/805) · [folio#94](https://github.com/miguelrcha/folio/pull/94) · [go-eazy#1095](https://github.com/enginow-in/go-eazy/pull/1095) |
+| **CI / Playwright** | [clawboo#109](https://github.com/clawboo/clawboo/pull/109) · [leaklens#5](https://github.com/andrewcb22/leaklens/pull/5) · [material-event-radar#27](https://github.com/huluwa2026/material-event-radar/pull/27) |
+| **Warp / docs & UX** | [warp#191–198](https://github.com/Ishannaik/warp/pulls?q=author%3AKhyFee) · [doc2mcp#151](https://github.com/doc2mcp/doc2mcp/pull/151) · [Podiom#14](https://github.com/Podiom/Podiom/pull/14) |
 
-Full list: [PRs authored by KhyFee](https://github.com/pulls?q=is%3Apr+author%3AKhyFee)
+Full list: [open](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3AKhyFee) · [merged](https://github.com/pulls?q=is%3Apr+author%3AKhyFee+is%3Amerged)
 
 ### Reviews & community
 
-Substantive reviews on Playwright / e2e / a11y PRs and helpful threads in [GitHub Community Discussions](https://github.com/orgs/community/discussions) (Actions, achievements, Copilot, Pages).
+Headlamp plugins (Prometheus a11y, toast lifecycle), Flux a11y, marquee/inert clones, and other Playwright / e2e threads — plus [GitHub Community Discussions](https://github.com/orgs/community/discussions).
 
 ---
 
