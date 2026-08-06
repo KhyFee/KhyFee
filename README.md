@@ -1,97 +1,106 @@
-<!-- profile-pass: 8 — visual polish + earned proof -->
+<!-- profile-pass: 9 — cleaner hierarchy, no empty widgets, hide 0-star noise -->
 <div align="center">
 
 <img src="./assets/banner-top.png" alt="" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=E85D2A&center=true&vCenter=true&width=640&height=50&lines=KhyFee;Playwright+%C2%B7+a11y+%C2%B7+reliable+delivery" alt="KhyFee — Playwright, a11y, reliable delivery" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=1000&color=E85D2A&center=true&vCenter=true&width=680&height=48&lines=KhyFee" alt="KhyFee" />
 
 **Full-stack engineer · Malaysia**  
-[asyncapps-hq](https://github.com/asyncapps-hq) · [asyncapps.org](https://asyncapps.org/) · [khaixd756@gmail.com](mailto:khaixd756@gmail.com)
+Tools for **reliable tests**, **accessibility**, and **honest CI**
+
+[asyncapps-hq](https://github.com/asyncapps-hq)
+&nbsp;·&nbsp;
+[asyncapps.org](https://asyncapps.org/)
+&nbsp;·&nbsp;
+[email](mailto:khaixd756@gmail.com)
 
 <br/>
 
 <a href="https://github.com/asyncapps-hq"><img src="https://img.shields.io/badge/Studio-asyncapps--hq-E85D2A?style=for-the-badge&logo=github&logoColor=white" alt="asyncapps-hq" /></a>
-<a href="https://github.com/asyncapps-hq/Deflake"><img src="https://img.shields.io/badge/Flagship-Deflake-0ea5e9?style=for-the-badge&logo=playwright&logoColor=white" alt="Deflake" /></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AKhyFee+is%3Amerged"><img src="https://img.shields.io/badge/OSS-merged_PRs-22c55e?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" /></a>
-<a href="https://github.com/asyncapps-hq/daily-ship-log/blob/main/WEEKLY_SHIP.md"><img src="https://img.shields.io/badge/Cadence-weekly_ship-334155?style=for-the-badge" alt="Weekly ship" /></a>
+&nbsp;
+<a href="https://github.com/asyncapps-hq/Deflake"><img src="https://img.shields.io/badge/Flagship-Deflake-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Deflake" /></a>
+&nbsp;
+<a href="https://github.com/pulls?q=is%3Apr+author%3AKhyFee+is%3Amerged"><img src="https://img.shields.io/badge/PRs-merged_upstream-22c55e?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" /></a>
 
-<img src="./assets/accent-divider.png" alt="" width="420" />
+<img src="./assets/accent-divider.png" alt="" width="380" />
 
 </div>
 
 ### About
 
-I ship tools that make delivery boring in the good way — **flakes fail with evidence**, a11y is default, CI is honest.
-
-```text
-plan → implement → verify (e2e / a11y) → ship
-```
-
-Small reversible diffs · fix at the shared boundary · AI for scope & drafts, not unreviewed merge.
+I treat shipping as a loop: **plan → implement → verify (e2e / a11y) → ship**.  
+Small diffs. Root-cause fixes. AI for scope and drafts — never unreviewed merge.
 
 ---
 
-### Products · [asyncapps-hq](https://github.com/asyncapps-hq)
+### Flagship
 
-| | Project | What you get |
-|:--:|:--------|:-------------|
-| ★ | **[Deflake](https://github.com/asyncapps-hq/Deflake)** | Catch flaky Playwright tests before CI gaslights you · [demo](https://github.com/asyncapps-hq/Deflake#60-second-demo) · [CI](https://github.com/asyncapps-hq/Deflake/actions) |
-| | **[A11yGuard](https://github.com/asyncapps-hq/A11yGuard)** | PR accessibility reviewer — WCAG findings + SARIF |
-| | **[LensQA](https://github.com/asyncapps-hq/LensQA)** | Visual, a11y, perf & runtime QA in one surface |
-| | **[SafeMigrate](https://github.com/asyncapps-hq/SafeMigrate)** | Postgres migration sandbox — shadow clone, diff, rollback |
-| | **[MarginWatch](https://github.com/asyncapps-hq/MarginWatch)** | B2B price / margin monitoring with session reuse |
-| | **[DocuSource](https://github.com/asyncapps-hq/DocuSource)** | Knowledge RAG with direct citations |
-| | **[daily-ship-log](https://github.com/asyncapps-hq/daily-ship-log)** | Habit log + [weekly ship checklist](https://github.com/asyncapps-hq/daily-ship-log/blob/main/WEEKLY_SHIP.md) |
+<div align="center">
 
-<details>
-<summary><strong>60-second Deflake demo</strong></summary>
+#### [Deflake](https://github.com/asyncapps-hq/Deflake) — catch flaky Playwright tests before CI gaslights you
+
+<a href="https://github.com/asyncapps-hq/Deflake/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/asyncapps-hq/Deflake/ci.yml?branch=main&style=flat-square&label=CI" alt="CI" /></a>
+<a href="https://github.com/asyncapps-hq/Deflake/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e?style=flat-square" alt="MIT" /></a>
+<a href="https://github.com/asyncapps-hq/Deflake#60-second-demo"><img src="https://img.shields.io/badge/Demo-60s-E85D2A?style=flat-square" alt="Demo" /></a>
+
+</div>
 
 ```bash
 git clone https://github.com/asyncapps-hq/Deflake.git
-cd Deflake && npm install && npm run demo
-# exit 2 = intentional flake detected → open .deflake/runs/
+cd Deflake && npm install && npm run demo   # exit 2 = flake found
 ```
 
-</details>
+---
+
+### Also shipping · [asyncapps-hq](https://github.com/asyncapps-hq)
+
+| Project | One-liner |
+|:--------|:----------|
+| **[A11yGuard](https://github.com/asyncapps-hq/A11yGuard)** | PR accessibility review — WCAG + SARIF |
+| **[LensQA](https://github.com/asyncapps-hq/LensQA)** | Visual · a11y · perf · runtime QA |
+| **[SafeMigrate](https://github.com/asyncapps-hq/SafeMigrate)** | Safer Postgres migration sandbox |
+| **[MarginWatch](https://github.com/asyncapps-hq/MarginWatch)** | B2B price / margin monitoring |
+| **[DocuSource](https://github.com/asyncapps-hq/DocuSource)** | Knowledge RAG with citations |
+| **[daily-ship-log](https://github.com/asyncapps-hq/daily-ship-log)** | Ship habit · [weekly checklist](https://github.com/asyncapps-hq/daily-ship-log/blob/main/WEEKLY_SHIP.md) |
 
 ---
 
-### Open source · earned merges
+### Open source
 
-Independent maintainers. Full trail: [merged](https://github.com/pulls?q=is%3Apr+author%3AKhyFee+is%3Amerged) · [open](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3AKhyFee)
+Merge trail: [all merged](https://github.com/pulls?q=is%3Apr+author%3AKhyFee+is%3Amerged) · usually **a11y**, **Playwright/CI**, **accurate docs**
 
-| Upstairs | Landed |
-|:---------|:-------|
-| [MiniSearch#2293](https://github.com/felladrin/MiniSearch/pull/2293) | Playwright e2e smoke vs production container |
-| [warp](https://github.com/Ishannaik/warp/pulls?q=author%3AKhyFee+is%3Amerged) `#191–198` | FAQ a11y · reduced-motion · docs (quality held up) |
+| | |
+|:--|:--|
+| [MiniSearch#2293](https://github.com/felladrin/MiniSearch/pull/2293) | Playwright e2e smoke vs prod container |
+| [warp #191–198](https://github.com/Ishannaik/warp/pulls?q=author%3AKhyFee+is%3Amerged) | FAQ a11y · reduced-motion · docs |
 | [weftmap#169](https://github.com/DataDave-Dev/weftmap/pull/169) | `<main>` landmarks — *Nice job, Merged!* |
-| [hubcdn#37](https://github.com/hubfly-space/hubcdn/pull/37) | `prefers-reduced-motion` in layout CSS |
+| [hubcdn#37](https://github.com/hubfly-space/hubcdn/pull/37) | `prefers-reduced-motion` |
 | [rama#19](https://github.com/bearr-lab/rama/pull/19) | Navbar + theme toggler a11y |
-| [mcp-migrate#93](https://github.com/dheerajjha/mcp-migrate/pull/93) | Skip `*.examples.ts` in scan defaults |
-| [ReproducibleResearch#50](https://github.com/carpentries-incubator/ReproducibleResearch/pull/50) | Descriptive link text (a11y) |
-| [nanopore#39](https://github.com/Eco-Flow/nanoporemetabarcoding/pull/39) | README accuracy |
-
-**Usually patching:** landmarks · reduced motion · Playwright/CI gates · docs that match code.
+| [mcp-migrate#93](https://github.com/dheerajjha/mcp-migrate/pull/93) | Smarter scan defaults |
+| [RR#50](https://github.com/carpentries-incubator/ReproducibleResearch/pull/50) · [nanopore#39](https://github.com/Eco-Flow/nanoporemetabarcoding/pull/39) | a11y link text · docs accuracy |
 
 ---
 
-### Stack
+### Stack & focus
+
+```text
+TypeScript  ████████████████████  primary (apps, CLIs, Playwright)
+Python      ████████░░░░░░░░░░░░  tooling / triagers / automation
+Postgres    ██████░░░░░░░░░░░░░░  SafeMigrate + product data
+CI / YAML   ████████████░░░░░░░░  Actions · Dependabot · CodeQL
+```
 
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
@@ -100,27 +109,15 @@ Independent maintainers. Full trail: [merged](https://github.com/pulls?q=is%3Apr
 
 ### Activity
 
-> **Why no auto “Most used languages”?** That widget only scans **repos owned by `KhyFee`**. Product code lives under **[asyncapps-hq](https://github.com/asyncapps-hq)** now, so the card would be blank (profile README only). Languages below match what the studio actually ships.
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KhyFee&theme=gruvbox&hide_border=true&background=0D1117&ring=E85D2A&fire=E85D2A&currStreakLabel=E85D2A" alt="Contribution streak" width="90%" />
+<img src="https://streak-stats.demolab.com?user=KhyFee&theme=gruvbox&hide_border=true&background=0D1117&ring=E85D2A&fire=E85D2A&currStreakLabel=E85D2A" alt="Contribution streak" width="88%" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhyFee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E85D2A&icon_color=E85D2A&text_color=E5E7EB&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhyFee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E85D2A&icon_color=E85D2A&text_color=E5E7EB&include_all_commits=true&hide=stars&ring_color=E85D2A" alt="GitHub stats" />
 
 </div>
-
-#### Languages I ship in ([asyncapps-hq](https://github.com/asyncapps-hq))
-
-| Language | Use |
-|----------|-----|
-| **TypeScript** | Apps, CLIs, Playwright tooling (Deflake, A11yGuard, LensQA, …) |
-| **Python** | CLI helpers, triagers, data / automation paths |
-| **SQL / Postgres** | SafeMigrate, product data layers |
-| **YAML / Actions** | CI, Dependabot, CodeQL, ship habit workflows |
-| **Markdown** | Docs that match the product (and this profile) |
 
 ---
 
@@ -128,19 +125,17 @@ Independent maintainers. Full trail: [merged](https://github.com/pulls?q=is%3Apr
 
 <div align="center">
 
-[**Email**](mailto:khaixd756@gmail.com)
+[Email](mailto:khaixd756@gmail.com)
 &nbsp;·&nbsp;
-[**Studio**](https://github.com/asyncapps-hq)
+[Studio](https://github.com/asyncapps-hq)
 &nbsp;·&nbsp;
-[**Site**](https://asyncapps.org/)
+[Website](https://asyncapps.org/)
 &nbsp;·&nbsp;
-[**PRs**](https://github.com/pulls?q=is%3Apr+author%3AKhyFee)
+[Pull requests](https://github.com/pulls?q=is%3Apr+author%3AKhyFee)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=Build+fast.+Test+hard.+Ship+clean." alt="Build fast. Test hard. Ship clean." />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=480&lines=Build+fast.+Test+hard.+Ship+clean." alt="Build fast. Test hard. Ship clean." />
 
 <img src="./assets/banner-bottom.png" alt="" width="100%" />
 
