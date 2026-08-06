@@ -1,5 +1,5 @@
 <!-- ponytail: honest AI/testing strengths; achievements via real merges only -->
-<!-- profile-pass: 5 — warp/weftmap merges + thank-yous -->
+<!-- profile-pass: 6 — watchlist: tooling I study and ship with -->
 <div align="center">
 
 <img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
@@ -10,7 +10,7 @@
 
 # KhyFee
 
-**Full-stack developer · Malaysia · AI-assisted delivery · Playwright & accessibility**
+**Full-stack engineer · Malaysia · AI-assisted delivery · Playwright & accessibility**
 
 [![Follow](https://img.shields.io/github/followers/KhyFee?label=Follow&style=for-the-badge&logo=github&color=0ea5e9)](https://github.com/KhyFee?tab=followers)
 [![Email](https://img.shields.io/badge/Email-khaixd756%40gmail.com-34d399?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaixd756@gmail.com)
@@ -24,17 +24,16 @@
 
 ## About
 
-I use AI to move **fast without cutting corners**: scope quickly, ship working software, then pressure-test until bugs surface — and fix the **root cause once**, not every call site.
+I treat AI as a **force multiplier**, not a substitute for engineering judgment: reduce scope to what ships, implement against real constraints, then verify with automated paths that fail loudly when assumptions break.
 
-- 🤖 **AI workflows** — plan → build → verify loops that stay honest
-- ⚡ **Fast projects / finish** — prototype → polish → done
-- 🐞 **Root-cause debugging** — shared guards over copy-pasted patches
-- 🎭 **Playwright E2E** + **smoke tests** for real user paths
-- ♿ **Accessibility** — keyboard, ARIA, contrast, skip links, focus
-- 📍 **Malaysia** · open to opportunities
+- **Delivery loop** — plan → implement → verify → ship; prefer small reversible diffs
+- **Failure isolation** — root-cause patches at shared boundaries instead of scattered client-side patches
+- **E2E confidence** — Playwright for user-critical flows; smoke gates on the paths that matter
+- **Accessibility by default** — keyboard, accessible names, contrast, reduced motion, focus management
+- **Malaysia** · open to opportunities
 
 ```bash
-plan → build with AI → verify → smoke/e2e → ship
+plan → implement → verify (e2e / a11y) → ship
 ```
 
 ---
@@ -74,6 +73,24 @@ plan → build with AI → verify → smoke/e2e → ship
 
 ---
 
+## Watchlist
+
+Upstream systems I track, contribute around, or treat as reference implementations for **test reliability, accessibility, and modern web/TS infrastructure**:
+
+| Area | Repositories |
+|------|----------------|
+| **E2E & reliability** | [microsoft/playwright](https://github.com/microsoft/playwright) · [vitest-dev/vitest](https://github.com/vitest-dev/vitest) · [mswjs/msw](https://github.com/mswjs/msw) · [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) · [storybookjs/storybook](https://github.com/storybookjs/storybook) |
+| **Accessibility** | [dequelabs/axe-core](https://github.com/dequelabs/axe-core) · [jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) · [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) · [pa11y/pa11y](https://github.com/pa11y/pa11y) |
+| **DX & type system** | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) · [biomejs/biome](https://github.com/biomejs/biome) · [vitejs/vite](https://github.com/vitejs/vite) · [evanw/esbuild](https://github.com/evanw/esbuild) |
+| **App framework** | [vercel/next.js](https://github.com/vercel/next.js) · [facebook/react](https://github.com/facebook/react) · [TanStack/query](https://github.com/TanStack/query) · [radix-ui/primitives](https://github.com/radix-ui/primitives) · [shadcn-ui/ui](https://github.com/shadcn-ui/ui) |
+| **Platform & CI** | [cli/cli](https://github.com/cli/cli) · [actions/runner](https://github.com/actions/runner) · [nektos/act](https://github.com/nektos/act) · [nodejs/node](https://github.com/nodejs/node) |
+| **Data & ops** | [supabase/supabase](https://github.com/supabase/supabase) · [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) · [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) |
+
+Engineers whose work I follow (tooling, a11y, testing, React/TS ecosystem):  
+[pavelfeldman](https://github.com/pavelfeldman) · [mxschmitt](https://github.com/mxschmitt) · [kentcdodds](https://github.com/kentcdodds) · [MarcySutton](https://github.com/MarcySutton) · [scottaohara](https://github.com/scottaohara) · [orta](https://github.com/orta) · [tannerlinsley](https://github.com/tannerlinsley) · [shadcn](https://github.com/shadcn) · [antfu](https://github.com/antfu) · [yyx990803](https://github.com/yyx990803) · [evanw](https://github.com/evanw) · [gaearon](https://github.com/gaearon)
+
+---
+
 ## Featured projects
 
 | Repo | What it does |
@@ -92,7 +109,7 @@ plan → build with AI → verify → smoke/e2e → ship
 
 ## Open source
 
-Playwright CI, accessibility (keyboard / ARIA / contrast / focus / reduced-motion), docs, and careful PR reviews — real patches, not drive-by noise.
+I contribute targeted patches in public repos: Playwright CI gates, accessibility (keyboard, ARIA, contrast, reduced-motion), documentation accuracy, and review feedback that is specific and mergeable.
 
 ### Merged (counts for Pull Shark + Contributors)
 
