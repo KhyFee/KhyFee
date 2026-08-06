@@ -100,16 +100,27 @@ Independent maintainers. Full trail: [merged](https://github.com/pulls?q=is%3Apr
 
 ### Activity
 
+> **Why no auto “Most used languages”?** That widget only scans **repos owned by `KhyFee`**. Product code lives under **[asyncapps-hq](https://github.com/asyncapps-hq)** now, so the card would be blank (profile README only). Languages below match what the studio actually ships.
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=KhyFee&theme=gruvbox&hide_border=true&background=0D1117&ring=E85D2A&fire=E85D2A&currStreakLabel=E85D2A" alt="Contribution streak" width="90%" />
 
 <br/><br/>
 
-<img height="158" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhyFee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E85D2A&icon_color=E85D2A&text_color=E5E7EB&include_all_commits=true" alt="GitHub stats" />
-<img height="158" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E85D2A&text_color=E5E7EB" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhyFee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E85D2A&icon_color=E85D2A&text_color=E5E7EB&include_all_commits=true" alt="GitHub stats" />
 
 </div>
+
+#### Languages I ship in ([asyncapps-hq](https://github.com/asyncapps-hq))
+
+| Language | Use |
+|----------|-----|
+| **TypeScript** | Apps, CLIs, Playwright tooling (Deflake, A11yGuard, LensQA, …) |
+| **Python** | CLI helpers, triagers, data / automation paths |
+| **SQL / Postgres** | SafeMigrate, product data layers |
+| **YAML / Actions** | CI, Dependabot, CodeQL, ship habit workflows |
+| **Markdown** | Docs that match the product (and this profile) |
 
 ---
 
