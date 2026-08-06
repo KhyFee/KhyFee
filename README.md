@@ -1,5 +1,5 @@
 <!-- ponytail: honest AI/testing strengths; achievements via real merges only -->
-<!-- profile-pass: 4 — refresh OSS merges + active PRs -->
+<!-- profile-pass: 5 — warp/weftmap merges + thank-yous -->
 <div align="center">
 
 <img src="./assets/banner-top.png" alt="KhyFee AI development workspace" width="100%" />
@@ -98,26 +98,30 @@ Playwright CI, accessibility (keyboard / ARIA / contrast / focus / reduced-motio
 
 | PR | Result |
 |----|--------|
+| ✅ [warp#191](https://github.com/Ishannaik/warp/pull/191) · [#192](https://github.com/Ishannaik/warp/pull/192) · [#193](https://github.com/Ishannaik/warp/pull/193) · [#195](https://github.com/Ishannaik/warp/pull/195) · [#198](https://github.com/Ishannaik/warp/pull/198) | FAQ a11y, reduced-motion stats, Wrap→Warp docs/signaling (maintainer: quality held up) |
+| ✅ [weftmap#169](https://github.com/DataDave-Dev/weftmap/pull/169) | `<main>` landmark on home + app — *“Nice job, Merged!”* |
+| ✅ [hubcdn#37](https://github.com/hubfly-space/hubcdn/pull/37) | `prefers-reduced-motion` in layout CSS |
+| ✅ [mcp-migrate#93](https://github.com/dheerajjha/mcp-migrate/pull/93) | Skip `*.examples.ts` in scan by default |
 | ✅ [MiniSearch#2293](https://github.com/felladrin/MiniSearch/pull/2293) | Playwright e2e smoke vs production container |
 | ✅ [bearr-lab/rama#19](https://github.com/bearr-lab/rama/pull/19) | Navbar + theme toggler a11y |
-| ✅ [mcp-migrate#93](https://github.com/dheerajjha/mcp-migrate/pull/93) | Skip `*.examples.ts` in scan by default |
 | ✅ [ReproducibleResearch#50](https://github.com/carpentries-incubator/ReproducibleResearch/pull/50) | Descriptive link text (a11y) |
 | ✅ [nanoporemetabarcoding#39](https://github.com/Eco-Flow/nanoporemetabarcoding/pull/39) | README typo fixes |
-| ✅ [First-PR#22](https://github.com/Cima9642/First-PR/pull/22) | README typos + [contributors](https://github.com/Cima9642/First-PR/pull/23) |
+| ✅ [First-PR#22](https://github.com/Cima9642/First-PR/pull/22) · [#23](https://github.com/Cima9642/First-PR/pull/23) | README typos + contributors |
 
 ### Active external PRs
 
 | Area | PRs |
 |------|-----|
-| **Accessibility** | [sembleops](https://github.com/TheDThompsonDev/sembleops/pulls?q=author%3AKhyFee) · [doc2mcp#150](https://github.com/doc2mcp/doc2mcp/pull/150) · [website#116](https://github.com/philaconvalley/website/pull/116) · [website#122](https://github.com/philaconvalley/website/pull/122) · [littlecures#17](https://github.com/AEVentures/littlecures/pull/17) · [MushafImad#82](https://github.com/ibo2001/MushafImad/pull/82) · [Pdfy#19](https://github.com/Harisyam/Pdfy/pull/19) · [evidenceoflife#27](https://github.com/Cyriellewu/evidenceoflife-v2/pull/27) · [portfoliov2#7](https://github.com/anuj98/portfoliov2/pull/7) · [GloWe#805](https://github.com/KarmaCummunity/GloWe/pull/805) · [folio#94](https://github.com/miguelrcha/folio/pull/94) · [go-eazy#1095](https://github.com/enginow-in/go-eazy/pull/1095) |
+| **Accessibility** | [sembleops](https://github.com/TheDThompsonDev/sembleops/pulls?q=author%3AKhyFee) · [doc2mcp#150](https://github.com/doc2mcp/doc2mcp/pull/150) · [website#116](https://github.com/philaconvalley/website/pull/116) · [website#122](https://github.com/philaconvalley/website/pull/122) · [CloakBin#191](https://github.com/Ishannaik/CloakBin/pull/191) · [Scheduler#13](https://github.com/bhavinvirani/Scheduler/pull/13) · [medagent#28](https://github.com/SunnyAgrwl05/medagent-ai/pull/28) · [resumeVideo#11](https://github.com/Nostalgic0/resumeVideo/pull/11) · [littlecures#17](https://github.com/AEVentures/littlecures/pull/17) · [evidenceoflife#27](https://github.com/Cyriellewu/evidenceoflife-v2/pull/27) · [Pdfy#19](https://github.com/Harisyam/Pdfy/pull/19) |
+| **Warp polish (open)** | [warp#196](https://github.com/Ishannaik/warp/pull/196) · [warp#197](https://github.com/Ishannaik/warp/pull/197) |
 | **CI / Playwright** | [clawboo#109](https://github.com/clawboo/clawboo/pull/109) · [leaklens#5](https://github.com/andrewcb22/leaklens/pull/5) · [material-event-radar#27](https://github.com/huluwa2026/material-event-radar/pull/27) |
-| **Warp / docs & UX** | [warp#191–198](https://github.com/Ishannaik/warp/pulls?q=author%3AKhyFee) · [doc2mcp#151](https://github.com/doc2mcp/doc2mcp/pull/151) · [Podiom#14](https://github.com/Podiom/Podiom/pull/14) |
+| **Docs / skip-link** | [CPA website#25](https://github.com/Create-Python-App/website/pull/25) · [Create-Vlang#43](https://github.com/Create-Vlang-App/website/pull/43) · [modal-rescue#2](https://github.com/Bilex95/modal-rescue/pull/2) · [doc2mcp#151](https://github.com/doc2mcp/doc2mcp/pull/151) |
 
 Full list: [open](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3AKhyFee) · [merged](https://github.com/pulls?q=is%3Apr+author%3AKhyFee+is%3Amerged)
 
 ### Reviews & community
 
-Headlamp plugins (Prometheus a11y, toast lifecycle), Flux a11y, marquee/inert clones, and other Playwright / e2e threads — plus [GitHub Community Discussions](https://github.com/orgs/community/discussions).
+Headlamp plugins (Prometheus a11y, toast lifecycle), Flux a11y, marquee/inert clones, GitHub Community (Actions, Student Pack, a11y guides) — plus project Discussions on [Deflake](https://github.com/KhyFee/Deflake/discussions) and [daily-ship-log](https://github.com/KhyFee/daily-ship-log/discussions).
 
 ---
 
