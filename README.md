@@ -106,8 +106,8 @@ Independent maintainers. Full trail: [merged](https://github.com/pulls?q=is%3Apr
 
 <br/><br/>
 
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=KhyFee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E85D2A&icon_color=E85D2A&text_color=E5E7EB&include_all_commits=true" alt="GitHub stats" />
-<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E85D2A&text_color=E5E7EB" alt="Top languages" />
+<img height="158" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhyFee&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E85D2A&icon_color=E85D2A&text_color=E5E7EB&include_all_commits=true" alt="GitHub stats" />
+<img height="158" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhyFee&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E85D2A&text_color=E5E7EB" alt="Top languages" />
 
 </div>
 
